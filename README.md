@@ -1,4 +1,6 @@
-## Manufacturing & Sales Management System
+## 🎓 Academic Context
+This project was developed for the **Fundamentals of Databases** course at AGH UST. The primary objective was to design a normalized relational database and implement complex business logic directly within the database engine using advanced T-SQL features.
+## 🏭 Manufacturing & Sales Management System
 A comprehensive MS SQL Server database solution designed to streamline production planning, sales operations, and warehouse management.
 ## 🚀 Key Features
 - Production Management: Automated scheduling, Bill of Materials (BOM) tracking, and real-time production status monitoring.
@@ -16,8 +18,6 @@ A comprehensive MS SQL Server database solution designed to streamline productio
 - Connect to your SQL Server instance.
 - Run the script located in ```db/script.sql``` to initialize the database structure.
 - Use the included stored procedures (prefixed with usp_) to manage customers, products, and production cycles.
-## 🎓 Academic Context
-This project was developed for the **Fundamentals of Databases** course at AGH UST. The primary objective was to design a normalized relational database and implement complex business logic directly within the database engine using advanced T-SQL features.
 ## 👥 Authors
 This system was designed and implemented by:
 - [Kamil Gieras](https://github.com/kamilGie)
