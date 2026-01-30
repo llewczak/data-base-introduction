@@ -20,6 +20,6 @@ A comprehensive MS SQL Server database solution designed to streamline productio
 This project was developed for the **Fundamentals of Databases** course at AGH UST. The primary objective was to design a normalized relational database and implement complex business logic directly within the database engine using advanced T-SQL features.
 ## 👥 Authors
 This system was designed and implemented by:
-- [Kamil Gieras](https://github.com)
-- [Stanisław Wawrylak](https://github.com)
+- [Kamil Gieras](https://github.com/kamilGie)
+- [Stanisław Wawrylak](https://github.com/Mufasa-5)
 - [Łukasz Lewczak](https://github.com/llewczak)
